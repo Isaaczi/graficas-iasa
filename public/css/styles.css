@@ -1,0 +1,12 @@
+
+.canvas-container {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 70vh;
+  }
+  .canvas {
+    width: 50vh;
+    height: 50vh;
+  }
